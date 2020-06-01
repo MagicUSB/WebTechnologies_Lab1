@@ -1,0 +1,24 @@
+p {
+   color: white;
+   }
+body {
+         background-color: #191970;
+         }
+h1 {
+   color: white;
+   }
+h2 {
+   color: white;
+   }
+h3 {
+   color: white;
+   }
+figcaption {
+   color: white;
+   }
+A {
+    color: cyan; 
+   }
+A:visited {
+    color: cyan; /* Цвет посещенных ссылок */
+   }
